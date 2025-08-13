@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Hector Maximiliano",
+        "apellido": "Cabral Gómez",
+        "dni": 10101010,
+        "materia": "Logística I",
+        "email": "maximiliano.logistica@gmail.com"
+    },
+    {
+        "nombre": "Claudio",
+        "apellido": "Jordaney",
+        "dni": 10101010,
+        "materia": "Algoritmos y Estructuras de datos II",
+        "email": "claudiodj@gmail.com"
+    }
+]

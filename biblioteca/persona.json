@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Ciro",
+        "apellido": "Cabral Reami",
+        "dni": 47339957,
+        "edad": 19,
+        "email": "cirocabral2806@gmail.com"
+    },
+    {
+        "nombre": "Milagros Anahí",
+        "apellido": "Del Mármol",
+        "dni": 47019054,
+        "edad": 20,
+        "email": "milagrosdelmarmol01@gmail.com"
+    },
+    {
+        "nombre": "ciro",
+        "apellido": "cabral",
+        "dni": 1234,
+        "edad": 19,
+        "email": "nvikdnsvs"
+    }
+]

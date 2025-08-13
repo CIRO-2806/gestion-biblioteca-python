@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "isbn": "978-0307474728",
+        "editorial": "Editorial Sudamericana",
+        "año": 1967,
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes Saavedra",
+        "isbn": "978-8424118894",
+        "editorial": "Espasa-Calpe",
+        "año": 1605,
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "El señor de los anillos: La comunidad del anillo",
+        "autor": "J.R.R. Tolkien",
+        "isbn": "978-8445071409",
+        "editorial": "Minotauro",
+        "año": 1954,
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "1984",
+        "autor": "George Orwell",
+        "isbn": "978-0451524935",
+        "editorial": "Secker & Warburg",
+        "año": 1949,
+        "estado": "Disponible"
+    }
+]
